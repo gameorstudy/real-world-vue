@@ -5,6 +5,11 @@
 npm run serve
 ```
 
+#Add related packages
+```
+npm install
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
