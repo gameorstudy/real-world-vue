@@ -1,10 +1,5 @@
 # real-world-vue
 
-## Project setup
-```
-npm install
-```
-
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -23,6 +18,16 @@ npm run test
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### Add json server
+```
+npm install -g json-server
+```
+
+### Watch json file
+```
+json-server --watch db.json
 ```
 
 ### Customize configuration
