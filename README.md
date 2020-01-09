@@ -25,6 +25,11 @@ npm run test
 npm run lint
 ```
 
+### Add Ajox
+```
+npm install axios
+```
+
 ### Add json server
 ```
 npm install -g json-server
